@@ -24,7 +24,7 @@
 
 ## > Block diagram
 
-<img src="/images/block_diagram.png" width="80%" height="80%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/block_diagram.png" width="90%" height="90%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 ## > Flow diagram
 
