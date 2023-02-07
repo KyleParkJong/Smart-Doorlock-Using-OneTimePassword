@@ -1,5 +1,6 @@
-Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject 
-========================================================================
+# Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
+# 건국대학교 3학년 1학기 전기전자기초설계및소프트웨어실습 텀프로젝트 - 박종혁, 박중선, 박원진 (3인 1조)
+
 
 # 0. Topic of our Team
 > __Smart Doorlock applying OTP__ 
