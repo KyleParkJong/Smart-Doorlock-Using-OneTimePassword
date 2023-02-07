@@ -3,9 +3,9 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 # 0. Topic of our Team
 > __Smart Doorlock applying OTP__ 
->  > Smart : Person detection using AI (TensorflowLite)
->  > OTP (One-Time-Password) : Change to new password every 30 seconds
->  > Worked in groups of three
+>  * Smart : Person detection using AI (TensorflowLite)
+>  * OTP (One-Time-Password) : Change to new password every 30 seconds
+>  * Worked in groups of three
 
 ## > Evalutation Criteria
 * Creativity
