@@ -42,7 +42,7 @@
 * __C board__
     + Controls servo motor, ultrasonic sensor and buzzer through signal from A board 
 
-### More details : /Presentation.pdf
+- More details : /Presentation.pdf
 
 ## > Flow diagram
 
@@ -62,7 +62,7 @@
 * C_board.ino
     + Coded everything a-to-z
 
-### More details : /Presentation.pdf
+- More details : /Presentation.pdf
 
 # 4. Result
 
@@ -90,7 +90,7 @@
 
 <img src="/images/5.jpeg" width="60%" height="60%" title="ldpcd_result" alt="ldpcd_result"></img>
 
-### More details : /Presentation.pdf
+- More details : /Presentation.pdf
 
 # 5. Video link
 
