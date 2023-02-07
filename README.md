@@ -24,7 +24,7 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 ## > Block diagram
 
-<img src="/images/block_diagram.png" width="10%" height="10%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/block_diagram.png" width="100%" height="100%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 #### A, B, C boards are Arduino Nano 33 BLE, all connected through physical wire.
 #### Three boards were used to perform different functions independently.
