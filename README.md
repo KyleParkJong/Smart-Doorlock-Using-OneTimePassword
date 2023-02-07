@@ -1,7 +1,7 @@
 Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject 
 ========================================================================
 
-# 0. Topic of our Term-project
+# 0. Topic of our Team
 ## __Smart Doorlock applying OTP__ 
  + Smart : Person detection using AI (TensorflowLite)
  + OTP (One-Time-Password) : Change to new password every 30 seconds
@@ -26,8 +26,8 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 <img src="/images/block_diagram.png" width="90%" height="90%" title="ldpcd_result" alt="ldpcd_result"></img>
 
-> A, B, C boards are Arduino Nano 33 BLE, all connected through physical wire.
-> Three boards were used to perform different functions independently.
+#### A, B, C boards are Arduino Nano 33 BLE, all connected through physical wire.
+#### Three boards were used to perform different functions independently.
 
 * B board 
   + Generates a new password every 30 seconds and transmits it to an application on a smart phone produced by App Inventor through Bluetooth.
