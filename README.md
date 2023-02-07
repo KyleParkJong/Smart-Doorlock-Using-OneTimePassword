@@ -2,7 +2,7 @@
 > 건국대학교 3학년 1학기 전기전자기초설계및소프트웨어실습 텀프로젝트 - 박종혁, 박중선, 박원진 (3인 1조)
 
 
-# 0. Topic of our Team : __Smart Doorlock applying OTP__
+# 0. Topic of our Team : _Smart Doorlock applying OTP_
 >  * Smart : Person detection using AI (TensorflowLite)
 >  * OTP (One-Time-Password) : Change to new password every 30 seconds
 >  * Worked in groups of three
@@ -30,17 +30,17 @@
 
 > Three boards were used to perform different functions independently.
 
-* B board 
+* __B board__
     + Generates a new password every 30 seconds and transmits it to an application on a smart phone produced by App Inventor through Bluetooth.
     + Input received by 4x4 matrix and status displayed via LCD display
     + Send signals to A board
 
-* A board
+* __A board__
     + ArduCam is attached and it detects human using "Person Detection" TensorflowLite model
     + Shows current state through LEDs (Blue : human detected, Red : password wrong, Green : password correct)
     + Send signals to B board and C board
 
-* C board
+* __C board__
     + Controls servo motor, ultrasonic sensor and buzzer through signal from A board 
 
 
