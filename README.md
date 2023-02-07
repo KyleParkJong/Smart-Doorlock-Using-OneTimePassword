@@ -30,17 +30,17 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 #### Three boards were used to perform different functions independently.
 
 * B board 
-  + Generates a new password every 30 seconds and transmits it to an application on a smart phone produced by App Inventor through Bluetooth.
-  + Input received by 4x4 matrix and status displayed via LCD display
-  + Send signals to A board
+    + Generates a new password every 30 seconds and transmits it to an application on a smart phone produced by App Inventor through Bluetooth.
+    + Input received by 4x4 matrix and status displayed via LCD display
+    + Send signals to A board
 
 * A board
-  + ArduCam is attached and it detects human using "Person Detection" TensorflowLite model
-  + Shows current state through LEDs (Blue : human detected, Red : password wrong, Green : password correct)
-  + Send signals to B board and C board
+    + ArduCam is attached and it detects human using "Person Detection" TensorflowLite model
+    + Shows current state through LEDs (Blue : human detected, Red : password wrong, Green : password correct)
+    + Send signals to B board and C board
 
 * C board
-  + Controls servo motor, ultrasonic sensor and buzzer through signal from A board 
+    + Controls servo motor, ultrasonic sensor and buzzer through signal from A board 
 
 
 ## > Flow diagram
@@ -51,15 +51,15 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 ## A board 
 * Person_detection_change.ino, Arduino_detection_responder.cpp
- + Coded based on reference code given from class 
+    + Coded based on reference code given from class 
 
 ## B board
 * B_board_bluetooth.ino
- + Coded everything a-to-z
+    + Coded everything a-to-z
 
 ## C board
 * C_board.ino
- + Coded everything a-to-z
+    + Coded everything a-to-z
 
 # 4. Result
 
@@ -93,8 +93,8 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 # 6. What I learned
 * Arduino programming (C)
- + Basic of Arduino
- + Interrupt timing, Bluetooth
- + Other modules (Ultrasonic sensor,4x4 matrix, ArduCam, buzzer, servo, LCD display, 7 segments)
+    + Basic of Arduino
+    + Interrupt timing, Bluetooth
+    + Other modules (Ultrasonic sensor,4x4 matrix, ArduCam, buzzer, servo, LCD display, 7 segments)
 * Applied Tensorflow Lite AI model into Arduino
 * Learned how to collaborate successfully and efficiently with team-mates 
