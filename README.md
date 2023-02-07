@@ -24,7 +24,7 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 ## > Block diagram
 
-<img src="/images/block_diagram.png" width="90%" height="90%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/block_diagram.png" width="10%" height="10%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 #### A, B, C boards are Arduino Nano 33 BLE, all connected through physical wire.
 #### Three boards were used to perform different functions independently.
@@ -65,27 +65,27 @@ Konkuk Univ. 3rd grade Electronical Basic Design Experiment termproject
 
 ## Password correct (front)
 
-<img src="/images/1.jpeg" width="80%" height="80%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/1.jpeg" width="60%" height="60%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 ## Password wrong (front)
 
-<img src="/images/2.jpeg" width="80%" height="80%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/2.jpeg" width="60%" height="60%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 ## Door locked (back)
 
-<img src="/images/4.jpeg" width="80%" height="80%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/4.jpeg" width="60%" height="60%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 * Can see servo motor blocking the door
 
 ## Door opened (back)
 
-<img src="/images/3.jpeg" width="80%" height="80%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/3.jpeg" width="60%" height="60%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 * When the door is closed again with the door open, the motor automatically operates and locks the door by recognizing that the door is closed through an ultrasonic sensor.
 
 ## Checking password with a mobile phone application through Bluetooth.
 
-<img src="/images/5.jpeg" width="80%" height="80%" title="ldpcd_result" alt="ldpcd_result"></img>
+<img src="/images/5.jpeg" width="60%" height="60%" title="ldpcd_result" alt="ldpcd_result"></img>
 
 # 5. Video link
 
